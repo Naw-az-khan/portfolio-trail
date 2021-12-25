@@ -1,6 +1,32 @@
 .App {
+  text-decoration: none;
+  display: flex;
+  flex-wrap: wrap;
+  
+}
+.Box{
+  padding: 50px;
+  padding-bottom:50px;
+  height: 300px;
+  width: 250px;
+  background-color: rgb(185, 210, 255);
+  text-align: center;
+  
+ 
+
+}
+
+.Link{
+  padding: 50px;
+  padding-bottom:50px;
+  height: 300px;
+  width: 500px;
+  background-color: rgb(119, 154, 168);
+  color: white;
   text-align: center;
 }
+
+
 
 .App-logo {
   height: 40vmin;
