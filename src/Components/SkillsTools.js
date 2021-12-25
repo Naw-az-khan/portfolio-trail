@@ -1,4 +1,4 @@
-import './Style.css'
+
 const SkillsTools = () =>{
    return(
     <div>
